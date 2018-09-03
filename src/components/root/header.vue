@@ -3,7 +3,10 @@
         <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
       <div class="container">
-        <a class="navbar-brand" href="#">Confee</a>
+        <!-- <a  href="#">Confee</a> -->
+        <!-- parei no router link  https://www.youtube.com/watch?v=DhBDYy3t2eI&index=6&list=PLy5T05I_eQYOr3uPSI-eTVCLe1GF1qOf5 -->
+
+        <router-link to="/" class="navbar-brand">Confee</router-link>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
