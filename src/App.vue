@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import RootHeader from './components/root/header.vue'
+import RootHeader from './components/root/header/Main.vue'
 
 export default {
   name: 'app',
