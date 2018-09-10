@@ -1,6 +1,7 @@
 # confee-web
 
-Repositório do curso do codecast: [link](https://www.youtube.com/playlist?list=PLy5T05I_eQYOr3uPSI-eTVCLe1GF1qOf5)
+Playlist do curso do codecast: [link](https://www.youtube.com/playlist?list=PLy5T05I_eQYOr3uPSI-eTVCLe1GF1qOf5)
+Repositório do curso: [link](https://github.com/codecasts/confee-web)
 ## Project setup
 ```
 yarn install
