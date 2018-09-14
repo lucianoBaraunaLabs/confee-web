@@ -1,3 +1,3 @@
-export default {
-
+export const attemptLogin = (context, payload) => {
+  console.log(payload)
 }
