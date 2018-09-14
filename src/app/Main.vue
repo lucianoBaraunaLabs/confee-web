@@ -8,10 +8,9 @@
 </template>
 
 <script>
-import RootHeader from './components/root/header/Main.vue'
-
+import RootHeader from '@/components/root/header/Main.vue'
 export default {
-  name: 'app',
+  name: 'App',
   components: {
     RootHeader
   }
@@ -19,6 +18,6 @@ export default {
 </script>
 
 <style lang="scss">
-@import 'assets/sass/app.scss';
+@import '../assets/sass/app.scss';
 
 </style>

@@ -6,6 +6,7 @@
           <Brand @toggle="onToggleMenu" />
           <div class="collapse navbar-collapse" :class="{ in: isOpen }" id="navbarResponsive">
             <Left />
+            <Right />
           </div>
         </div>
       </nav>
@@ -15,11 +16,14 @@
 <script>
 import Brand from './brand'
 import Left from './left'
+import Right from './right'
+
 export default {
   name: 'confee-header',
   components: {
     Brand,
-    Left
+    Left,
+    Right
   },
   data () {
     return {
